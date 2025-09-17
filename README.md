@@ -109,6 +109,9 @@ En el formulario `FrmCorreos`, debes configurar el servidor SMTP:
   Estudiante de Ingeniería de Sistemas – CUN
 
 ---
+
+## 📷 Capturas
+
 <img width="792" height="544" alt="image" src="https://github.com/user-attachments/assets/5f8a7401-4dec-423a-b609-fff5b86c8101" />
 <img width="788" height="539" alt="image" src="https://github.com/user-attachments/assets/6b013423-a4ad-4006-8c60-6c35183ed178" />
 <img width="788" height="541" alt="image" src="https://github.com/user-attachments/assets/4b42d0ad-4b46-4f2b-970d-0e3330ea29b2" />
