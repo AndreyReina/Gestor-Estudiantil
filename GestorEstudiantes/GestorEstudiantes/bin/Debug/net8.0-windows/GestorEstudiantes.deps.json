@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GestorEstudiantes/1.0.0": {
+        "dependencies": {
+          "LibreriaSerializadores": "1.0.0"
+        },
+        "runtime": {
+          "GestorEstudiantes.dll": {}
+        }
+      },
+      "LibreriaSerializadores/1.0.0": {
+        "runtime": {
+          "LibreriaSerializadores.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestorEstudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaSerializadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\GestorEstudiantes\LibreriaSerializadores\obj\Debug\LibreriaSerializadores.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\GestorEstudiantes\LibreriaSerializadores\obj\Debug\LibreriaSerializadores.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\GestorEstudiantes\LibreriaSerializadores\bin\Debug\LibreriaSerializadores.dll
+C:\Users\Andrey\source\repos\GestorEstudiantes\LibreriaSerializadores\bin\Debug\LibreriaSerializadores.pdb
+C:\Users\Andrey\source\repos\GestorEstudiantes\LibreriaSerializadores\obj\Debug\LibreriaSerializadores.dll
+C:\Users\Andrey\source\repos\GestorEstudiantes\LibreriaSerializadores\obj\Debug\LibreriaSerializadores.pdb
